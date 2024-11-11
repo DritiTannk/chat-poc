@@ -100,3 +100,6 @@ MEDIA_URL = '/media/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+AWS_ACCESS_KEY_ID = "AKIAZHMWLLNHJEKLDNFX"
+AWS_SECRET_ACCESS_KEY = "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"
