@@ -1,0 +1,1074 @@
+[
+  [
+      "python is the best technology in today's era\r",
+      {
+        "entities": [
+          [
+            0,
+            6,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "bangalore is the IT hub of India\r",
+      {
+        "entities": [
+          [
+            0,
+            9,
+            "CITY"
+          ],
+          [
+            27,
+            32,
+            "COUNTRY"
+          ]
+        ]
+      }
+    ],
+    [
+      "ReactJs is the popular framework for the frontend developers\r",
+      {
+        "entities": [
+          [
+            0,
+            7,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Google is the biggest IT company of the world\r",
+      {
+        "entities": [
+          [
+            0,
+            6,
+            "ORGANIZATION"
+          ]
+        ]
+      }
+    ],
+    [
+      "Microsoft Azure is very popular among the developers\r",
+      {
+        "entities": [
+          [
+            0,
+            15,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "many employees are based from ahmedabad city\r",
+      {
+        "entities": [
+          [
+            30,
+            39,
+            "CITY"
+          ]
+        ]
+      }
+    ],
+    [
+      "ahmedabad is known as the heritage city of India\r",
+      {
+        "entities": [
+          [
+            0,
+            9,
+            "CITY"
+          ],
+          [
+            43,
+            48,
+            "COUNTRY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Delhi is the capital of  India\r",
+      {
+        "entities": [
+          [
+            0,
+            5,
+            "CITY"
+          ],
+          [
+            25,
+            30,
+            "COUNTRY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Navratri is the biggest festival of ahmedabad\r",
+      {
+        "entities": [
+          [
+            36,
+            45,
+            "CITY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Google requires employees having education like B.Tech, Msc.IT, BE, Phd, M.Tech etc\r",
+      {
+        "entities": [
+          [
+            0,
+            6,
+            "ORGANIZATION"
+          ],
+          [
+            48,
+            54,
+            "EDUCATION"
+          ],
+          [
+            56,
+            62,
+            "EDUCATION"
+          ],
+          [
+            64,
+            66,
+            "EDUCATION"
+          ],
+          [
+            68,
+            71,
+            "EDUCATION"
+          ],
+          [
+            73,
+            79,
+            "EDUCATION"
+          ]
+        ]
+      }
+    ],
+    [
+      "our new joinee, Diya is from ahmedabad\r",
+      {
+        "entities": [
+          [
+            16,
+            20,
+            "PERSON"
+          ],
+          [
+            29,
+            38,
+            "CITY"
+          ]
+        ]
+      }
+    ],
+    [
+      "our new joinee, diya is a software engineer\r",
+      {
+        "entities": [
+          [
+            16,
+            20,
+            "PERSON"
+          ],
+          [
+            26,
+            43,
+            "DESIGNATION"
+          ]
+        ]
+      }
+    ],
+    [
+      "For 2 years, Ramesh served as a marketing specialist at Reliance Industries in Ahmedabad\r",
+      {
+        "entities": [
+          [
+            4,
+            11,
+            "EXPERIENCE"
+          ],
+          [
+            13,
+            19,
+            "PERSON"
+          ],
+          [
+            32,
+            52,
+            "DESIGNATION"
+          ],
+          [
+            56,
+            75,
+            "ORGANIZATION"
+          ],
+          [
+            79,
+            88,
+            "CITY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Sonal has been a human resources executive with 7 years of experience at IBM, Bengaluru\r",
+      {
+        "entities": [
+          [
+            0,
+            5,
+            "PERSON"
+          ],
+          [
+            17,
+            42,
+            "DESIGNATION"
+          ],
+          [
+            48,
+            55,
+            "EXPERIENCE"
+          ],
+          [
+            73,
+            76,
+            "ORGANIZATION"
+          ],
+          [
+            78,
+            87,
+            "CITY"
+          ]
+        ]
+      }
+    ],
+    [
+      "With 8 years of experience, Suraj joined Wipro in Hyderabad as a senior analyst\r",
+      {
+        "entities": [
+          [
+            5,
+            26,
+            "EXPERIENCE"
+          ],
+          [
+            28,
+            33,
+            "PERSON"
+          ],
+          [
+            41,
+            46,
+            "ORGANIZATION"
+          ],
+          [
+            50,
+            59,
+            "CITY"
+          ],
+          [
+            65,
+            79,
+            "DESIGNATION"
+          ]
+        ]
+      }
+    ],
+    [
+      "Python is a programming language that is interpreted, object-oriented\r",
+      {
+        "entities": [
+          [
+            0,
+            6,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Python for Competitive Programming, Web Development, and creating software\r",
+      {
+        "entities": [
+          [
+            0,
+            6,
+            "TECHNOLOGY"
+          ],
+          [
+            36,
+            51,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Python was created in 1980s by Guido van Rossum\r",
+      {
+        "entities": [
+          [
+            0,
+            6,
+            "TECHNOLOGY"
+          ],
+          [
+            22,
+            27,
+            "YEAR"
+          ]
+        ]
+      }
+    ],
+    [
+      "React is a popular JavaScript library for building user interfaces, particularly for single-page applications\r",
+      {
+        "entities": [
+          [
+            0,
+            5,
+            "TECHNOLOGY"
+          ],
+          [
+            19,
+            29,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "React components can be functional or class-based, allowing developers to create reusable pieces of UI logic\r",
+      {
+        "entities": [
+          [
+            0,
+            5,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "The virtual DOM in React helps optimize performance by reducing the number of direct manipulations to the actual DOM\r",
+      {
+        "entities": [
+          [
+            19,
+            24,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "React introduced hooks in version 16.8, enabling functional components to use state and other React features\r",
+      {
+        "entities": [
+          [
+            0,
+            5,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Using JSX syntax, React allows developers to write HTML directly within JavaScript, making code more readable and expressive\r",
+      {
+        "entities": [
+          [
+            18,
+            23,
+            "TECHNOLOGY"
+          ],
+          [
+            51,
+            55,
+            "TECHNOLOGY"
+          ],
+          [
+            72,
+            82,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "React’s component-based structure makes it easier to manage and reuse code across complex applications\r",
+      {
+        "entities": [
+          [
+            0,
+            7,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "With tools like Create React App, developers can quickly scaffold new React projects with a standard configuration\r",
+      {
+        "entities": [
+          [
+            70,
+            75,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "React’s context API provides a way to pass data through the component tree without manually passing props at every level\r",
+      {
+        "entities": [
+          [
+            0,
+            7,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Machine learning models are trained on large datasets to recognize patterns and make predictions\r",
+      {
+        "entities": [
+          [
+            0,
+            16,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Artificial intelligence is transforming industries by enabling machines to perform tasks that previously required human intelligence\r",
+      {
+        "entities": [
+          [
+            0,
+            23,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Deep learning, a subset of machine learning, uses neural networks with multiple layers to process complex data\r",
+      {
+        "entities": [
+          [
+            0,
+            13,
+            "TECHNOLOGY"
+          ],
+          [
+            27,
+            43,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Natural language processing (NLP) is a field of AI focused on enabling machines to understand and generate human language\r",
+      {
+        "entities": [
+          [
+            0,
+            33,
+            "TECHNOLOGY"
+          ],
+          [
+            48,
+            50,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Reinforcement learning algorithms learn optimal actions through a reward-punishment mechanism\r",
+      {
+        "entities": [
+          [
+            0,
+            22,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "AI-driven recommendation systems personalize content for users by analyzing their behavior and preferences\r",
+      {
+        "entities": [
+          [
+            0,
+            32,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Data preprocessing is a critical step in machine learning, involving tasks like cleaning, normalization, and feature engineering\r",
+      {
+        "entities": [
+          [
+            41,
+            57,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Computer vision, a field within AI, enables computers to interpret and make decisions based on visual data\r",
+      {
+        "entities": [
+          [
+            0,
+            15,
+            "TECHNOLOGY"
+          ],
+          [
+            32,
+            34,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "AI systems can be categorized into narrow AI, which is task-specific, and general AI, which aims to mimic human intelligence\r",
+      {
+        "entities": [
+          [
+            0,
+            2,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Clustering algorithms, such as k-means, group data points into clusters based on similarity\r",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Decision trees are a popular algorithm in machine learning for classification and regression tasks\r",
+      {
+        "entities": [
+          [
+            42,
+            58,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "In deep learning, convolutional neural networks (CNNs) are commonly used for image processing tasks\r",
+      {
+        "entities": [
+          [
+            3,
+            16,
+            "TECHNOLOGY"
+          ],
+          [
+            18,
+            54,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "AI ethics is an important area of study that examines the potential biases and ethical implications of AI systems\r",
+      {
+        "entities": [
+          [
+            0,
+            2,
+            "TECHNOLOGY"
+          ],
+          [
+            103,
+            105,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Support vector machines (SVMs) are used for classification tasks and find the hyperplane that best separates the data points\r",
+      {
+        "entities": [
+          [
+            0,
+            30,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Unsupervised learning finds patterns in data without labeled responses, often used for clustering and association tasks\r",
+      {
+        "entities": [
+          [
+            0,
+            21,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "john Doe applied for the Software Engineer position at TechNova Solutions in San Francisco\r",
+      {
+        "entities": [
+          [
+            0,
+            8,
+            "PERSON"
+          ],
+          [
+            25,
+            42,
+            "DESIGNATION"
+          ],
+          [
+            55,
+            73,
+            "ORGANIZATION"
+          ],
+          [
+            77,
+            90,
+            "CITY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Jane has over 5 years of experience in Python and Django development\r",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "PERSON"
+          ],
+          [
+            14,
+            35,
+            "EXPERIENCE"
+          ],
+          [
+            39,
+            45,
+            "TECHNOLOGY"
+          ],
+          [
+            50,
+            56,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Carlos Hernandez interviewed for the Data Scientist role at OpenAI on October 15, 2024\r",
+      {
+        "entities": [
+          [
+            0,
+            16,
+            "PERSON"
+          ],
+          [
+            37,
+            51,
+            "DESIGNATION"
+          ],
+          [
+            60,
+            66,
+            "ORGANIZATION"
+          ],
+          [
+            70,
+            77,
+            "MONTH"
+          ]
+        ]
+      }
+    ],
+    [
+      "Alice is proficient in AWS, Kubernetes, and CI/CD pipelines\r",
+      {
+        "entities": [
+          [
+            0,
+            5,
+            "PERSON"
+          ],
+          [
+            23,
+            26,
+            "TECHNOLOGY"
+          ],
+          [
+            28,
+            38,
+            "TECHNOLOGY"
+          ],
+          [
+            44,
+            59,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "The candidate, Maria Smith, previously worked at Google as a Cloud Architect\r",
+      {
+        "entities": [
+          [
+            15,
+            26,
+            "PERSON"
+          ],
+          [
+            49,
+            55,
+            "ORGANIZATION"
+          ],
+          [
+            61,
+            76,
+            "DESIGNATION"
+          ]
+        ]
+      }
+    ],
+    [
+      "Amar applied to Microsoft for a position in AI research and NLP\r",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "PERSON"
+          ],
+          [
+            16,
+            25,
+            "ORGANIZATION"
+          ],
+          [
+            44,
+            63,
+            "DESIGNATION"
+          ]
+        ]
+      }
+    ],
+    [
+      "Emma's previous job was as a Backend Developer at Oracle\r",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "PERSON"
+          ],
+          [
+            29,
+            46,
+            "DESIGNATION"
+          ],
+          [
+            50,
+            56,
+            "ORGANIZATION"
+          ]
+        ]
+      }
+    ],
+    [
+      "David has experience in SQL, MongoDB, and data engineering roles\r",
+      {
+        "entities": [
+          [
+            0,
+            5,
+            "PERSON"
+          ],
+          [
+            24,
+            27,
+            "TECHNOLOGY"
+          ],
+          [
+            29,
+            36,
+            "TECHNOLOGY"
+          ],
+          [
+            42,
+            58,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "In his resume, Ahmed mentioned his experience with Java, ReactJS, and microservices\r",
+      {
+        "entities": [
+          [
+            15,
+            20,
+            "PERSON"
+          ],
+          [
+            51,
+            55,
+            "TECHNOLOGY"
+          ],
+          [
+            57,
+            64,
+            "TECHNOLOGY"
+          ],
+          [
+            70,
+            83,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Maya Kumar interviewed with Facebook for a full-stack developer role\r",
+      {
+        "entities": [
+          [
+            0,
+            10,
+            "PERSON"
+          ],
+          [
+            28,
+            36,
+            "ORGANIZATION"
+          ],
+          [
+            43,
+            63,
+            "DESIGNATION"
+          ]
+        ]
+      }
+    ],
+    [
+      "Sanjay’s professional goal is to specialize in cloud infrastructure and DevOps\r",
+      {
+        "entities": [
+          [
+            0,
+            8,
+            "PERSON"
+          ],
+          [
+            47,
+            67,
+            "TECHNOLOGY"
+          ],
+          [
+            72,
+            78,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Jessica applied for a position in QA automation at Tesla in Palo Alto\r",
+      {
+        "entities": [
+          [
+            0,
+            7,
+            "PERSON"
+          ],
+          [
+            34,
+            47,
+            "DESIGNATION"
+          ],
+          [
+            51,
+            56,
+            "ORGANIZATION"
+          ],
+          [
+            60,
+            69,
+            "CITY"
+          ]
+        ]
+      }
+    ],
+    [
+      "Lucas has been working in blockchain development at IBM for the past 3 years\r",
+      {
+        "entities": [
+          [
+            0,
+            5,
+            "PERSON"
+          ],
+          [
+            26,
+            36,
+            "TECHNOLOGY"
+          ],
+          [
+            52,
+            55,
+            "ORGANIZATION"
+          ],
+          [
+            69,
+            76,
+            "EXPERIENCE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Anna Robinson is proficient in Linux administration, network security, and firewalls",
+      {
+        "entities": [
+          [
+            0,
+            13,
+            "PERSON"
+          ],
+          [
+            31,
+            36,
+            "OS"
+          ],
+          [
+            53,
+            69,
+            "TECHNOLOGY"
+          ],
+          [
+            75,
+            84,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+    [
+      "john is good developer",
+      {
+        "entities": [
+          [
+            0,
+            3,
+            "PERSON"
+          ]
+        ]
+      }
+    ],
+  [
+      "Michael moved from New York to Austin to pursue a career in cybersecurity.\r",
+      {
+        "entities": [
+          [
+            0,
+            7,
+            "PERSON"
+          ],
+          [
+            19,
+            27,
+            "CITY"
+          ],
+          [
+            31,
+            37,
+            "CITY"
+          ],
+          [
+            60,
+            73,
+            "TECHNOLOGY"
+          ]
+        ]
+      }
+    ],
+  [
+      "Amar applied to Microsoft for a position in AI research and NLP.\r",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "PERSON"
+          ],
+          [
+            16,
+            25,
+            "ORGANIZATION"
+          ],
+          [
+            44,
+            65,
+            "DESIGNATION"
+          ]
+        ]
+      }
+    ],
+  [
+      "google is a tech company",
+     {
+        "entities": [
+          [
+            0,
+            6,
+            "ORGANIZATION"
+          ]
+        ]
+      }
+    ]
+]
